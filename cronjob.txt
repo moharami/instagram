@@ -1,0 +1,19 @@
+*   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/targhib/1    
+5,10,15,20,25,30,35,40,45,50,55 *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/update_new_images/1  
+*   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/update_users 
+0,10,20,30,40,50    *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/scrape/app/webroot/cron_scheduler.php /Posts/update_all222222    
+*   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/targhib/4/2/2    
+0,5,10,15,20,25,30,35,40,45,50,55   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/track_follower   
+5   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/update_new_images/2  
+*   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/unfollow_users/1 
+*   *   *   *   *   php /home/boghok/domains/boghokarna.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/targhib/2
+
+
+
+
+
+php /home/amirmo/domains/amirmoharami.ir/public_html/instagram/app/webroot/cron_scheduler.php /Users/update_new_images/2    
+  r2@amirmoharami.ir@www.amirmoharami.ir/public_html/instagram/app/Controller/UsersController2.php
+
+
+  /usr/local/bin/php home/amirmo/domains/amirmoharami.ir/public_html/instagram/app/Controller/Users/update_new_images 
